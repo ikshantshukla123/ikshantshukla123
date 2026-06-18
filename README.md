@@ -19,9 +19,9 @@
 I'm a full-stack engineer focused on backend architecture and API performance. Currently working on scaling distributed systems at **Daynt** while building my own SaaS product.
 
 - 🔭 **Currently working on:** Scaling backend architectures and optimising API performance
-- 🌱 **Learning:** Rust and Kubernetes for deeper infrastructure expertise
+- 🌱 **Learning:** Golang and Kubernetes for deeper infrastructure expertise
 - 🤝 **Open to collaborate on:** Open-source projects in distributed systems, microservices, or DevOps tooling
-- 💬 **Ask me about:** MERN Stack, TypeScript, SQL, Redis, RabbitMQ, Docker, Nginx
+- 💬 **Ask me about:** MERN Stack, Golang, SQL, Redis, RabbitMQ, Docker, Nginx
 - ⚡ **Fun fact:** I treat debugging race conditions like detective work — love the challenge
 
 ---
