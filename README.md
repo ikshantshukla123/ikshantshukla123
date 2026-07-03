@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Engineer &amp; Backend Specialist</b><br/>
-  Building scalable systems at <a href="https://daynt.com">Daynt</a> · Open to collaboration on distributed systems &amp; DevOps
+  Built scalable systems at <a href="https://daynt.com">Daynt</a> · Open to collaboration on distributed systems &amp; DevOps
 </p>
 
 <p align="center">
