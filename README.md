@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a full-stack engineer focused on backend architecture and API performance. Currently working on scaling distributed systems at **Daynt** while building my own SaaS product.
+I'm a full-stack engineer focused on backend architecture and API performance. Currently completed 4 moths intership on scaling distributed systems at **Daynt** while building my own SaaS product.
 
 - 🔭 **Currently working on:** Scaling backend architectures and optimising API performance
 - 🌱 **Learning:** Golang and System Design for deeper infrastructure expertise
