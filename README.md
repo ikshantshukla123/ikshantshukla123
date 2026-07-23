@@ -82,7 +82,7 @@ I'm a full-stack engineer focused on backend architecture and API performance. C
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikshantshukla123&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,reviews&theme=radial" alt="Ikshant's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ikshantshukla123&show_icons=true&include_all_commits=true&count_private=true&theme=radial" alt="Ikshant's GitHub Stats" />
 </p>
 ---
 
