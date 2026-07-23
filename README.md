@@ -84,7 +84,6 @@ I'm a full-stack engineer focused on backend architecture and API performance. C
 <p align="center">
     <img src="https://github-stats-extended.vercel.app/api?username=ikshantshukla123&show_icons=true&locale=en" alt="ikshantshukla" height="220"/>
     <!--<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ikshantshukla123&show_icons=true&locale=en&layout=compact" alt="ikshantshukla123" />-->
-    <img src="https://raw.githubusercontent.com/ikshantshukla123/waka-stats/main/wakatime-stats.svg" alt="Weekly Development Stats" height="220"/>
 </p>
 ---
 
