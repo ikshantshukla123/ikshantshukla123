@@ -72,15 +72,20 @@ I'm a full-stack engineer focused on backend architecture and API performance. C
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikshantshukla123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikshantshukla123&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikshantshukla123&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</p>
+</p> -->
 
+<p align="center">
+    <img src="https://github-stats-extended.vercel.app/api?username=ikshantshukla123&show_icons=true&locale=en" alt="ikshantshukla" height="220"/>
+    <!--<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ikshantshukla123&show_icons=true&locale=en&layout=compact" alt="ikshantshukla123" />-->
+    <img src="https://raw.githubusercontent.com/ikshantshukla123/waka-stats/main/wakatime-stats.svg" alt="Weekly Development Stats" height="220"/>
+</p>
 ---
 
 <p align="center">
